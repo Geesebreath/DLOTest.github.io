@@ -1,0 +1,16 @@
+{
+"companyName": "CIM",
+"productName": "Mud Testing DLO",
+"productVersion": "0.2",
+"dataUrl": "DLOTest.github.io.data.unityweb",
+"wasmCodeUrl": "DLOTest.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "DLOTest.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
