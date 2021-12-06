@@ -1,0 +1,16 @@
+{
+"companyName": "NAIT",
+"productName": "Constant Acceleration",
+"productVersion": "0.1",
+"dataUrl": "Specific Heat 12-06-21.data.unityweb",
+"wasmCodeUrl": "Specific Heat 12-06-21.wasm.code.unityweb",
+"wasmFrameworkUrl": "Specific Heat 12-06-21.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
