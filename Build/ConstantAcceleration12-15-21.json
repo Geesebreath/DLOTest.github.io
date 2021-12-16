@@ -1,7 +1,7 @@
 {
 "companyName": "NAIT",
 "productName": "Constant Acceleration",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "ConstantAcceleration12-15-21.data.unityweb",
 "wasmCodeUrl": "ConstantAcceleration12-15-21.wasm.code.unityweb",
 "wasmFrameworkUrl": "ConstantAcceleration12-15-21.wasm.framework.unityweb",
