@@ -1,6 +1,6 @@
 {
 "companyName": "NAIT",
-"productName": "Constant Acceleration",
+"productName": "Magnetic Fields DLO",
 "productVersion": "0.1",
 "dataUrl": "MagneticFieldDLO 01-31-22.data.unityweb",
 "wasmCodeUrl": "MagneticFieldDLO 01-31-22.wasm.code.unityweb",
