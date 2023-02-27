@@ -1,0 +1,16 @@
+{
+"companyName": "NAIT",
+"productName": "Superelevation Simulator",
+"productVersion": "1.4",
+"dataUrl": "Supereleveation WebGL 2-27.data.unityweb",
+"wasmCodeUrl": "Supereleveation WebGL 2-27.wasm.code.unityweb",
+"wasmFrameworkUrl": "Supereleveation WebGL 2-27.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
